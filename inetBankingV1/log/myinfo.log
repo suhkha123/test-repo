@@ -1,0 +1,116 @@
+2019-02-15/11:04:00.391  INFO: ebanking - Browser and Application launched.
+2019-02-15/11:04:02.661  INFO: ebanking - Entered Username.
+2019-02-15/11:04:02.951  INFO: ebanking - Entered Username.
+2019-02-15/11:04:06.902  INFO: ebanking - Clicked on Submit.
+2019-02-15/11:04:06.928  INFO: ebanking - Verification is successful.
+2019-02-23/19:09:12.842  INFO: ebanking - Browser and Application launched.
+2019-02-23/19:09:18.015  INFO: ebanking - Entered Username.
+2019-02-23/19:09:18.316  INFO: ebanking - Entered Username.
+2019-02-23/19:09:24.379  INFO: ebanking - Clicked on Submit.
+2019-02-23/19:09:24.475  INFO: ebanking - Verification is successful.
+2019-02-23/21:16:25.315  INFO: ebanking - Browser and Application launched.
+2019-02-23/21:16:26.965  INFO: ebanking - Entered Username.
+2019-02-23/21:16:27.143  INFO: ebanking - Entered Username.
+2019-02-23/21:16:30.513  INFO: ebanking - Clicked on Submit.
+2019-02-23/21:16:30.551  INFO: ebanking - Verification is successful.
+2019-02-23/21:49:15.210  INFO: ebanking - Browser and Application launched.
+2019-02-23/21:49:16.724  INFO: ebanking - Entered Username.
+2019-02-23/21:49:16.895  INFO: ebanking - Entered Username.
+2019-02-23/21:49:20.828  INFO: ebanking - Clicked on Submit.
+2019-02-23/21:49:20.871  INFO: ebanking - Verification is successful.
+2019-02-23/21:52:59.733  INFO: ebanking - Browser and Application launched.
+2019-02-23/21:53:53.554  INFO: ebanking - Entered Username.
+2019-02-23/21:54:30.599  INFO: ebanking - Entered Username.
+2019-02-23/21:54:32.322  INFO: ebanking - Clicked on Submit.
+2019-02-23/22:54:28.115  INFO: ebanking - Browser and Application launched.
+2019-02-23/22:54:31.840  INFO: ebanking - Entered Username.
+2019-02-23/22:54:32.166  INFO: ebanking - Entered Username.
+2019-02-23/22:54:35.983  INFO: ebanking - Clicked on Submit.
+2019-02-23/22:54:36.015  INFO: ebanking - Verification is successful.
+2019-02-23/23:02:22.943  INFO: ebanking - Browser and Application launched.
+2019-02-23/23:02:24.636  INFO: ebanking - Entered Username.
+2019-02-23/23:02:24.831  INFO: ebanking - Entered Username.
+2019-02-23/23:02:29.227  INFO: ebanking - Clicked on Submit.
+2019-02-23/23:02:29.262  INFO: ebanking - Verification is successful.
+2019-02-24/13:15:31.836  INFO: ebanking - Browser and Application launched.
+2019-02-24/13:15:33.258  INFO: ebanking - Entered Username.
+2019-02-24/13:15:33.415  INFO: ebanking - Entered Username.
+2019-02-24/13:15:37.275  INFO: ebanking - Clicked on Submit.
+2019-02-24/14:40:45.515  INFO: ebanking - Login Passed
+2019-02-25/00:30:40.986  INFO: ebanking - User name is provided
+2019-02-25/00:30:41.359  INFO: ebanking - Passsword is provided
+2019-02-25/00:30:55.359  INFO: ebanking - providing customer details....
+2019-02-25/00:31:06.173  INFO: ebanking - validation started....
+2019-02-25/00:32:43.612  INFO: ebanking - Browser and Application launched.
+2019-02-25/00:32:45.270  INFO: ebanking - Entered Username.
+2019-02-25/00:32:45.608  INFO: ebanking - Entered Username.
+2019-02-25/00:32:51.767  INFO: ebanking - Clicked on Submit.
+2019-02-25/00:32:51.796  INFO: ebanking - Verification is successful.
+2019-02-25/00:33:27.613  INFO: ebanking - Login Passed
+2019-02-25/00:34:03.236  INFO: ebanking - User name is provided
+2019-02-25/00:34:03.688  INFO: ebanking - Passsword is provided
+2019-02-25/00:34:18.362  INFO: ebanking - providing customer details....
+2019-02-25/00:34:31.187  INFO: ebanking - validation started....
+2019-02-25/19:49:54.869  INFO: ebanking - Browser and Application launched.
+2019-02-25/19:49:58.505  INFO: ebanking - Entered Username.
+2019-02-25/19:49:58.907  INFO: ebanking - Entered Username.
+2019-02-25/19:50:02.309  INFO: ebanking - Clicked on Submit.
+2019-02-25/19:50:02.390  INFO: ebanking - Verification is successful.
+2019-02-25/19:50:14.756  INFO: ebanking - User name is provided
+2019-02-25/19:50:15.116  INFO: ebanking - Passsword is provided
+2019-02-25/19:50:23.837  INFO: ebanking - providing customer details....
+2019-02-25/19:50:33.622  INFO: ebanking - validation started....
+2019-02-25/20:53:52.108  INFO: ebanking - Browser and Application launched.
+2019-02-25/20:53:52.980  INFO: ebanking - Entered Username.
+2019-02-25/20:53:53.177  INFO: ebanking - Entered Username.
+2019-02-25/20:53:55.980  INFO: ebanking - Clicked on Submit.
+2019-02-25/20:53:56.002  INFO: ebanking - Verification is successful.
+2019-02-25/20:54:08.792  INFO: ebanking - User name is provided
+2019-02-25/20:54:09.009  INFO: ebanking - Passsword is provided
+2019-02-25/20:54:21.431  INFO: ebanking - providing customer details....
+2019-02-25/20:54:32.327  INFO: ebanking - validation started....
+2019-02-25/20:59:37.429  INFO: ebanking - Browser and Application launched.
+2019-02-25/20:59:38.366  INFO: ebanking - Entered Username.
+2019-02-25/20:59:38.602  INFO: ebanking - Entered Username.
+2019-02-25/20:59:41.514  INFO: ebanking - Clicked on Submit.
+2019-02-25/20:59:41.548  INFO: ebanking - Verification is successful.
+2019-02-25/20:59:53.839  INFO: ebanking - User name is provided
+2019-02-25/20:59:54.022  INFO: ebanking - Passsword is provided
+2019-02-25/21:00:04.392  INFO: ebanking - providing customer details....
+2019-02-25/21:00:14.115  INFO: ebanking - validation started....
+2019-03-13/22:15:16.580  INFO: ebanking - Browser and Application launched.
+2019-03-13/22:15:18.023  INFO: ebanking - Entered Username.
+2019-03-13/22:15:18.329  INFO: ebanking - Entered Username.
+2019-03-13/22:15:18.917  INFO: ebanking - Clicked on Submit.
+2019-03-13/22:15:31.089  INFO: ebanking - User name is provided
+2019-03-13/22:15:31.311  INFO: ebanking - Passsword is provided
+2019-03-14/11:09:26.030  INFO: ebanking - Browser and Application launched.
+2019-03-14/11:09:27.135  INFO: ebanking - Entered Username.
+2019-03-14/11:09:27.394  INFO: ebanking - Entered Username.
+2019-03-14/11:09:28.058  INFO: ebanking - Clicked on Submit.
+2019-03-14/11:09:41.391  INFO: ebanking - User name is provided
+2019-03-14/11:09:41.657  INFO: ebanking - Passsword is provided
+2019-03-14/11:33:54.397  INFO: ebanking - Browser and Application launched.
+2019-03-14/11:33:56.073  INFO: ebanking - Entered Username.
+2019-03-14/11:33:56.298  INFO: ebanking - Entered Username.
+2019-03-14/11:33:56.935  INFO: ebanking - Clicked on Submit.
+2019-03-14/11:34:09.763  INFO: ebanking - User name is provided
+2019-03-14/11:34:09.953  INFO: ebanking - Passsword is provided
+2019-03-14/16:49:09.510  INFO: ebanking - Browser and Application launched.
+2019-03-14/16:49:10.190  INFO: ebanking - Entered Username.
+2019-03-14/16:49:10.394  INFO: ebanking - Entered Username.
+2019-03-14/16:49:11.020  INFO: ebanking - Clicked on Submit.
+2019-03-14/16:49:54.991  INFO: ebanking - User name is provided
+2019-03-14/16:49:55.161  INFO: ebanking - Passsword is provided
+2019-03-14/16:55:46.662  INFO: ebanking - Browser and Application launched.
+2019-03-14/16:55:47.814  INFO: ebanking - Entered Username.
+2019-03-14/16:55:48.129  INFO: ebanking - Entered Username.
+2019-03-14/16:55:48.811  INFO: ebanking - Clicked on Submit.
+2019-03-14/16:56:29.166  INFO: ebanking - User name is provided
+2019-03-14/16:56:29.490  INFO: ebanking - Passsword is provided
+2019-03-14/17:12:42.978  INFO: ebanking - Browser and Application launched.
+2019-03-14/17:12:45.149  INFO: ebanking - Entered Username.
+2019-03-14/17:12:45.526  INFO: ebanking - Entered Username.
+2019-03-14/17:12:46.161  INFO: ebanking - Clicked on Submit.
+2019-03-14/17:13:27.172  INFO: ebanking - User name is provided
+2019-03-14/17:13:27.504  INFO: ebanking - Passsword is provided
